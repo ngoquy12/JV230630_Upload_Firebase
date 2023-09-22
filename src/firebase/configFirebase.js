@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBZ221Tvug9XJPy_rhdOT2tBnutoPt03uA",
-  authDomain: "project-module02-2a81e.firebaseapp.com",
-  projectId: "project-module02-2a81e",
-  storageBucket: "project-module02-2a81e.appspot.com",
-  messagingSenderId: "243066658619",
-  appId: "1:243066658619:web:e19a0a9f21ee7cd050611e",
+  apiKey: "AIzaSyAfePsaGQnI9WCGeSrkB6C3eERfob3n7X8",
+  authDomain: "upload-image-f4286.firebaseapp.com",
+  projectId: "upload-image-f4286",
+  storageBucket: "upload-image-f4286.appspot.com",
+  messagingSenderId: "96635572182",
+  appId: "1:96635572182:web:39bee91231f4f6cfb4de77",
 };
 
 // Khởi tạo firebase

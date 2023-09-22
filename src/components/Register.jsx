@@ -9,6 +9,7 @@ import axios from "axios";
 export default function Register() {
   const [gender, setGender] = useState(1);
   const [imageUpoad, setImageUpload] = useState(null);
+  console.log("imageUpoad", imageUpoad);
   const [users, setUsers] = useState({
     userName: "",
     dateOfBirth: "",

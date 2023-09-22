@@ -7,8 +7,8 @@ function App() {
   return (
     <>
       {/* <UploadFile /> */}
-      {/* <Register /> */}
-      <Signup />
+      <Register />
+      {/* <Signup /> */}
     </>
   );
 }
